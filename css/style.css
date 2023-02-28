@@ -1,0 +1,10 @@
+ul li{
+    list-style: none;
+}
+
+a {
+    float: right;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
